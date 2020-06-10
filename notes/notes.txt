@@ -1,1 +1,2 @@
-placeholder file for notes
+TODO: Flask Web Server 
+TODO: Serial communication.
