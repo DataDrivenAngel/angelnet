@@ -1,2 +1,4 @@
+TODO: Django Web App?
+TODO: Plan out reporting dashboard
 TODO: Flask Web Server 
 TODO: Serial communication.
