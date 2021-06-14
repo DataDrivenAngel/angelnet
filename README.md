@@ -1,5 +1,5 @@
 # angelnet
-IoT Sensor Network for my domicile
+IoT Sensor Network for my domicile. The server code and dashboard can be found here: https://github.com/DataDrivenAngel/angelnet_server/
 
 ## ESP8266 NodeMCU + Sensors
 
